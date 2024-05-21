@@ -7,7 +7,3 @@ from the lines
 Shield by shield
 side by side
 
-There was a day in January
-Adding some content to the file
-This is the day in Febraury
-
